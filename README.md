@@ -28,6 +28,11 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot (66)](https://github.com/onkar964/aeonaxy-full-stack/assets/62983112/6c887b02-e0d6-4938-94ae-3236b66800e9)
+![Screenshot (67)](https://github.com/onkar964/aeonaxy-full-stack/assets/62983112/893d5024-d992-4b60-85d6-da5ea6c711f5)
+![Screenshot (69)](https://github.com/onkar964/aeonaxy-full-stack/assets/62983112/e70c88ed-f1ea-4194-a440-3d6edc207a71)
+![Screenshot (70)](https://github.com/onkar964/aeonaxy-full-stack/assets/62983112/063c0d95-1033-4e8a-bbf4-4d22d7e8c4f8)
+![Screenshot (68)](https://github.com/onkar964/aeonaxy-full-stack/assets/62983112/abc0a365-1d27-4099-ba76-5ee3d6fc3545)
 
 ### `npm run eject`
 
